@@ -1,8 +1,8 @@
 StockWidget
 ===========
 
-git clone https://github.com/rkazarin/StockWidget.git
+`git clone https://github.com/rkazarin/StockWidget.git`
 
-cd StockWidget
+`cd StockWidget`
 
-python stockApp.py
+`python stockApp.py`
